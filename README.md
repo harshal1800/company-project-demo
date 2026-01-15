@@ -12,5 +12,3 @@ Company Project Demo
 
 Backend API module is under development
 
-
-
